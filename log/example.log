@@ -1,0 +1,844 @@
+2021-09-01 18:20:07,113  INFO [main] reusablecomponents:28 - loading
+2021-09-02 09:57:31,020  INFO [main] reusablecomponents:27 - loading
+2021-09-02 16:39:43,875  INFO [main] reusablecomponents:29 - loading
+2021-09-02 16:40:26,534  INFO [main] reusablecomponents:29 - loading
+2021-09-02 16:40:59,992  INFO [main] reusablecomponents:29 - loading
+2021-09-02 16:41:36,159  INFO [main] reusablecomponents:29 - loading
+2021-09-02 17:00:25,153  INFO [main] reusablecomponents:39 - loading
+2021-09-02 17:00:26,848 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-02 17:00:26,852 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-02 17:00:26,856 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-02 17:00:26,858 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-02 17:00:26,859 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-09-02 17:01:25,725  INFO [main] reusablecomponents:39 - loading
+2021-09-02 17:01:27,645 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-02 17:01:27,647 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-02 17:01:27,648 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-02 17:01:27,650 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-02 17:01:27,650 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-09-02 17:04:29,352  INFO [main] reusablecomponents:40 - loading
+2021-09-02 17:04:31,511 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-02 17:04:31,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-02 17:04:31,516 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-02 17:04:31,519 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-02 17:04:31,520 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-09-02 17:46:59,980  INFO [main] reusablecomponents:37 - loading
+2021-09-02 17:47:01,686 DEBUG [main] cache:45 - Couldn't find template in cache for "extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-02 17:47:01,687 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en_US.ftl"): Not found
+2021-09-02 17:47:01,692 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en.ftl"): Not found
+2021-09-02 17:47:01,694 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent.ftl"): Found
+2021-09-02 17:47:01,694 DEBUG [main] cache:45 - Loading template for "extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/extent.ftl"
+2021-09-02 17:47:02,000 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-02 17:47:02,002 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en_US.ftl"): Not found
+2021-09-02 17:47:02,003 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-09-02 17:47:02,005 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-09-02 17:47:02,006 DEBUG [main] cache:45 - Loading template for "head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/head.ftl"
+2021-09-02 17:47:02,013 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-02 17:47:02,014 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en_US.ftl"): Not found
+2021-09-02 17:47:02,016 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-09-02 17:47:02,017 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-09-02 17:47:02,018 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/nav.ftl"
+2021-09-02 17:47:02,041 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-02 17:47:02,043 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en_US.ftl"): Not found
+2021-09-02 17:47:02,044 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-09-02 17:47:02,046 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-09-02 17:47:02,046 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view.ftl"
+2021-09-02 17:47:02,120 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-02 17:47:02,123 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en_US.ftl"): Not found
+2021-09-02 17:47:02,126 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-09-02 17:47:02,128 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-09-02 17:47:02,130 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view-charts.ftl"
+2021-09-02 17:47:02,170 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-02 17:47:02,172 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en_US.ftl"): Not found
+2021-09-02 17:47:02,174 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-09-02 17:47:02,176 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-09-02 17:47:02,177 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/standard.ftl"
+2021-09-02 17:47:02,214 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-09-02 17:47:02,216 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-02 17:47:02,217 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en_US.ftl"): Not found
+2021-09-02 17:47:02,218 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-09-02 17:47:02,218 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-09-02 17:47:02,218 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/category-view/category-view.ftl"
+2021-09-02 17:47:02,222 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-02 17:47:02,223 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en_US.ftl"): Not found
+2021-09-02 17:47:02,223 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-09-02 17:47:02,224 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-09-02 17:47:02,224 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/exception-view/exception-view.ftl"
+2021-09-02 17:47:02,227 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-02 17:47:02,227 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en_US.ftl"): Not found
+2021-09-02 17:47:02,228 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-09-02 17:47:02,228 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-09-02 17:47:02,229 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/dashboard-view/dashboard-view.ftl"
+2021-09-02 17:47:02,236 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-02 17:47:02,236 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en_US.ftl"): Not found
+2021-09-02 17:47:02,237 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-09-02 17:47:02,237 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-09-02 17:47:02,237 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/logs-view/testrunner-logs-view.ftl"
+2021-09-03 10:52:55,985  INFO [main] reusablecomponents:37 - loading
+2021-09-03 10:53:01,137 DEBUG [main] cache:45 - Couldn't find template in cache for "extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 10:53:01,138 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en_US.ftl"): Not found
+2021-09-03 10:53:01,140 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en.ftl"): Not found
+2021-09-03 10:53:01,141 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent.ftl"): Found
+2021-09-03 10:53:01,141 DEBUG [main] cache:45 - Loading template for "extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/extent.ftl"
+2021-09-03 10:53:03,059 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 10:53:03,060 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en_US.ftl"): Not found
+2021-09-03 10:53:03,061 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-09-03 10:53:03,062 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-09-03 10:53:03,062 DEBUG [main] cache:45 - Loading template for "head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/head.ftl"
+2021-09-03 10:53:03,064 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 10:53:03,065 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en_US.ftl"): Not found
+2021-09-03 10:53:03,066 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-09-03 10:53:03,066 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-09-03 10:53:03,067 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/nav.ftl"
+2021-09-03 10:53:03,084 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 10:53:03,084 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en_US.ftl"): Not found
+2021-09-03 10:53:03,085 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-09-03 10:53:03,085 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-09-03 10:53:03,085 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view.ftl"
+2021-09-03 10:53:03,151 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 10:53:03,152 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en_US.ftl"): Not found
+2021-09-03 10:53:03,152 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-09-03 10:53:03,152 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-09-03 10:53:03,153 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view-charts.ftl"
+2021-09-03 10:53:03,160 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 10:53:03,160 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en_US.ftl"): Not found
+2021-09-03 10:53:03,161 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-09-03 10:53:03,161 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-09-03 10:53:03,162 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/standard.ftl"
+2021-09-03 10:53:03,173 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 10:53:03,174 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en_US.ftl"): Not found
+2021-09-03 10:53:03,174 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-09-03 10:53:03,175 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-09-03 10:53:03,175 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/category-view/category-view.ftl"
+2021-09-03 10:53:03,177 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 10:53:03,178 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en_US.ftl"): Not found
+2021-09-03 10:53:03,178 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-09-03 10:53:03,178 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-09-03 10:53:03,178 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/exception-view/exception-view.ftl"
+2021-09-03 10:53:03,180 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 10:53:03,180 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en_US.ftl"): Not found
+2021-09-03 10:53:03,181 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-09-03 10:53:03,181 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-09-03 10:53:03,181 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/dashboard-view/dashboard-view.ftl"
+2021-09-03 10:53:03,186 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 10:53:03,186 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en_US.ftl"): Not found
+2021-09-03 10:53:03,186 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-09-03 10:53:03,187 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-09-03 10:53:03,187 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/logs-view/testrunner-logs-view.ftl"
+2021-09-03 11:01:54,657  INFO [main] reusablecomponents:39 - loading
+2021-09-03 11:01:55,913 DEBUG [main] cache:45 - Couldn't find template in cache for "extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 11:01:55,914 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en_US.ftl"): Not found
+2021-09-03 11:01:55,918 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en.ftl"): Not found
+2021-09-03 11:01:55,919 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent.ftl"): Found
+2021-09-03 11:01:55,920 DEBUG [main] cache:45 - Loading template for "extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/extent.ftl"
+2021-09-03 11:01:56,099 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 11:01:56,099 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en_US.ftl"): Not found
+2021-09-03 11:01:56,100 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-09-03 11:01:56,100 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-09-03 11:01:56,100 DEBUG [main] cache:45 - Loading template for "head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/head.ftl"
+2021-09-03 11:01:56,102 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 11:01:56,102 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en_US.ftl"): Not found
+2021-09-03 11:01:56,103 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-09-03 11:01:56,103 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-09-03 11:01:56,104 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/nav.ftl"
+2021-09-03 11:01:56,109 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 11:01:56,110 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en_US.ftl"): Not found
+2021-09-03 11:01:56,111 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-09-03 11:01:56,111 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-09-03 11:01:56,111 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view.ftl"
+2021-09-03 11:01:56,131 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 11:01:56,132 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en_US.ftl"): Not found
+2021-09-03 11:01:56,132 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-09-03 11:01:56,133 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-09-03 11:01:56,133 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view-charts.ftl"
+2021-09-03 11:01:56,140 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 11:01:56,140 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en_US.ftl"): Not found
+2021-09-03 11:01:56,141 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-09-03 11:01:56,141 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-09-03 11:01:56,141 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/standard.ftl"
+2021-09-03 11:01:56,153 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 11:01:56,153 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en_US.ftl"): Not found
+2021-09-03 11:01:56,153 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-09-03 11:01:56,154 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-09-03 11:01:56,154 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/category-view/category-view.ftl"
+2021-09-03 11:01:56,156 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 11:01:56,157 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en_US.ftl"): Not found
+2021-09-03 11:01:56,157 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-09-03 11:01:56,158 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-09-03 11:01:56,158 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/exception-view/exception-view.ftl"
+2021-09-03 11:01:56,160 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 11:01:56,160 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en_US.ftl"): Not found
+2021-09-03 11:01:56,161 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-09-03 11:01:56,161 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-09-03 11:01:56,161 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/dashboard-view/dashboard-view.ftl"
+2021-09-03 11:01:56,166 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 11:01:56,167 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en_US.ftl"): Not found
+2021-09-03 11:01:56,167 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-09-03 11:01:56,168 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-09-03 11:01:56,168 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/logs-view/testrunner-logs-view.ftl"
+2021-09-03 11:07:34,075  INFO [main] reusablecomponents:34 - loading
+2021-09-03 11:08:35,583  INFO [main] reusablecomponents:34 - loading
+2021-09-03 11:13:40,030  INFO [main] reusablecomponents:34 - loading
+2021-09-03 11:18:30,390  INFO [main] reusablecomponents:34 - loading
+2021-09-03 11:19:09,358  INFO [main] reusablecomponents:34 - loading
+2021-09-03 11:20:52,052  INFO [main] reusablecomponents:34 - loading
+2021-09-03 11:39:45,399  INFO [main] reusablecomponents:33 - loading
+2021-09-03 11:46:09,513  INFO [main] reusablecomponents:33 - loading
+2021-09-03 11:51:39,149  INFO [main] reusablecomponents:33 - loading
+2021-09-03 12:16:44,487  INFO [main] reusablecomponents:33 - loading
+2021-09-03 12:16:47,624  INFO [main] reusablecomponents:52 - signup page loading
+2021-09-03 12:16:47,721  INFO [main] reusablecomponents:54 - 
+2021-09-03 12:18:32,865  INFO [main] reusablecomponents:33 - loading
+2021-09-03 12:18:36,900  INFO [main] reusablecomponents:52 - signup page loading
+2021-09-03 12:18:36,991  INFO [main] reusablecomponents:54 - 
+2021-09-03 12:28:17,135  INFO [main] reusablecomponents:33 - loading
+2021-09-03 12:28:20,544  INFO [main] reusablecomponents:56 - signup page loading
+2021-09-03 12:28:20,640  INFO [main] reusablecomponents:58 - 
+2021-09-03 12:39:39,204  INFO [main] reusablecomponents:35 - loading
+2021-09-03 12:41:34,352  INFO [main] reusablecomponents:35 - loading
+2021-09-03 12:41:36,864  INFO [main] reusablecomponents:60 - signup page loading
+2021-09-03 12:41:36,953  INFO [main] reusablecomponents:62 - 
+2021-09-03 12:42:52,350  INFO [main] reusablecomponents:35 - loading
+2021-09-03 12:42:55,243  INFO [main] reusablecomponents:60 - signup page loading
+2021-09-03 12:42:55,338  INFO [main] reusablecomponents:62 - 
+2021-09-03 12:45:22,220  INFO [main] reusablecomponents:36 - loading
+2021-09-03 12:45:24,772  INFO [main] reusablecomponents:61 - signup page loading
+2021-09-03 12:45:24,867  INFO [main] reusablecomponents:63 - 
+2021-09-03 12:52:24,751  INFO [main] reusablecomponents:36 - loading
+2021-09-03 12:52:27,779  INFO [main] reusablecomponents:70 - signup page loading
+2021-09-03 12:52:27,876  INFO [main] reusablecomponents:72 - 
+2021-09-03 12:59:49,201  INFO [main] reusablecomponents:36 - loading
+2021-09-03 12:59:53,051  INFO [main] reusablecomponents:74 - signup page loading
+2021-09-03 12:59:53,146  INFO [main] reusablecomponents:76 - 
+2021-09-03 13:10:27,618  INFO [main] reusablecomponents:38 - loading
+2021-09-03 13:10:33,110  INFO [main] reusablecomponents:76 - signup page loading
+2021-09-03 13:10:33,957  INFO [main] reusablecomponents:78 - 
+2021-09-03 13:10:37,637 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 13:10:37,638 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-03 13:10:37,641 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-03 13:10:37,642 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-03 13:10:37,643 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-09-03 13:10:37,963 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-03 13:10:37,963 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-03 13:10:37,964 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-03 13:10:37,964 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-03 13:10:37,964 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-09-05 09:35:25,398  INFO [main] reusablecomponents:38 - loading
+2021-09-05 09:35:32,443  INFO [main] reusablecomponents:38 - loading
+2021-09-05 09:35:54,669  INFO [main] reusablecomponents:76 - signup page loading
+2021-09-05 09:35:54,697  INFO [main] reusablecomponents:76 - signup page loading
+2021-09-05 09:35:55,016  INFO [main] reusablecomponents:78 - 
+2021-09-05 09:35:55,018  INFO [main] reusablecomponents:78 - 
+2021-09-05 09:39:42,447  INFO [main] reusablecomponents:38 - loading
+2021-09-05 09:39:55,659  INFO [main] reusablecomponents:76 - signup page loading
+2021-09-05 09:39:56,029  INFO [main] reusablecomponents:78 - 
+2021-09-05 09:39:56,839 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-05 09:39:56,842 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-05 09:39:56,845 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-05 09:39:56,847 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-05 09:39:56,848 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-09-05 09:39:57,411 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-05 09:39:57,412 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-05 09:39:57,413 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-05 09:39:57,414 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-05 09:39:57,414 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-09-09 17:30:49,062  INFO [main] reusablecomponents:38 - loading
+2021-09-11 11:21:18,038  INFO [main] reusablecomponents:38 - loading
+2021-09-11 11:21:30,148  INFO [main] reusablecomponents:76 - signup page loading
+2021-09-11 11:21:30,294  INFO [main] reusablecomponents:78 - 
+2021-09-11 16:17:58,641 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-11 16:17:58,653 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-11 16:17:58,655 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-11 16:17:58,657 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-11 16:17:58,657 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-09-11 16:17:59,027 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-11 16:17:59,028 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-11 16:17:59,028 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-11 16:17:59,029 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-11 16:17:59,029 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-09-12 10:52:08,342  INFO [main] reusablecomponents:38 - loading
+2021-09-12 10:52:20,181  INFO [main] reusablecomponents:76 - signup page loading
+2021-09-12 10:52:20,309  INFO [main] reusablecomponents:78 - 
+2021-09-23 10:47:36,624  INFO [main] reusablecomponents:20 - loading
+2021-09-23 11:00:06,052  INFO [main] reusablecomponents:23 - loading
+2021-09-23 11:04:17,577  INFO [main] reusablecomponents:26 - loading
+2021-09-23 11:05:53,660  INFO [main] reusablecomponents:26 - loading
+2021-09-23 11:11:12,206  INFO [main] reusablecomponents:26 - loading
+2021-09-23 11:12:27,670  INFO [main] reusablecomponents:26 - loading
+2021-09-23 11:26:02,709  INFO [main] reusablecomponents:29 - loading
+2021-09-23 11:29:54,929  INFO [main] reusablecomponents:29 - loading
+2021-09-23 11:44:02,823  INFO [main] reusablecomponents:30 - loading
+2021-09-23 12:09:51,067  INFO [main] reusablecomponents:31 - loading
+2021-09-23 12:14:26,418  INFO [main] reusablecomponents:32 - loading
+2021-09-23 12:15:33,029  INFO [main] reusablecomponents:32 - loading
+2021-09-23 12:17:31,968  INFO [main] reusablecomponents:32 - loading
+2021-09-23 13:16:42,584  INFO [main] reusablecomponents:31 - loading
+2021-09-23 13:38:57,045  INFO [main] reusablecomponents:32 - loading
+2021-09-23 13:42:07,311  INFO [main] reusablecomponents:32 - loading
+2021-09-23 13:43:30,558  INFO [main] reusablecomponents:32 - loading
+2021-09-23 13:45:23,733  INFO [main] reusablecomponents:32 - loading
+2021-09-23 13:49:08,286  INFO [main] reusablecomponents:32 - loading
+2021-09-23 13:52:49,635  INFO [main] reusablecomponents:32 - loading
+2021-09-23 13:53:58,142  INFO [main] reusablecomponents:32 - loading
+2021-09-23 13:58:20,943  INFO [main] reusablecomponents:32 - loading
+2021-09-23 14:01:07,669  INFO [main] reusablecomponents:32 - loading
+2021-09-23 14:06:43,176  INFO [main] reusablecomponents:32 - loading
+2021-09-23 14:11:17,922  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:12:49,041  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:15:00,454  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:16:40,076  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:19:00,294  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:21:31,053  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:27:51,618  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:30:59,003  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:31:58,263  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:33:44,246  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:34:45,271  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:38:19,547  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:44:08,646  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:51:08,211  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:52:43,973  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:55:18,660  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:56:40,155  INFO [main] reusablecomponents:29 - loading
+2021-09-23 14:58:41,945  INFO [main] reusablecomponents:29 - loading
+2021-09-23 15:01:00,624  INFO [main] reusablecomponents:29 - loading
+2021-09-23 15:01:50,225  INFO [main] reusablecomponents:29 - loading
+2021-09-23 15:03:13,060  INFO [main] reusablecomponents:29 - loading
+2021-09-23 15:05:44,227  INFO [main] reusablecomponents:29 - loading
+2021-09-23 15:07:07,526  INFO [main] reusablecomponents:29 - loading
+2021-09-23 15:13:33,837  INFO [main] reusablecomponents:29 - loading
+2021-09-23 15:14:59,633  INFO [main] reusablecomponents:29 - loading
+2021-09-23 15:20:51,818  INFO [main] reusablecomponents:32 - loading
+2021-09-23 15:23:53,972  INFO [main] reusablecomponents:24 - loading
+2021-09-23 16:42:43,852  INFO [main] reusablecomponents:24 - loading
+2021-09-23 16:44:05,706  INFO [main] reusablecomponents:24 - loading
+2021-09-23 16:46:37,296  INFO [main] reusablecomponents:24 - loading
+2021-09-23 16:48:38,051  INFO [main] reusablecomponents:24 - loading
+2021-09-23 16:50:42,693  INFO [main] reusablecomponents:27 - loading
+2021-09-23 17:18:09,293  INFO [main] reusablecomponents:28 - loading
+2021-09-23 17:22:32,087  INFO [main] reusablecomponents:30 - loading
+2021-09-23 17:24:37,148  INFO [main] reusablecomponents:30 - loading
+2021-09-23 17:27:29,477  INFO [main] reusablecomponents:30 - loading
+2021-09-23 17:32:26,558  INFO [main] reusablecomponents:30 - loading
+2021-09-23 17:40:46,424  INFO [main] reusablecomponents:30 - loading
+2021-09-23 17:42:16,507  INFO [main] reusablecomponents:30 - loading
+2021-09-23 17:43:24,270  INFO [main] reusablecomponents:30 - loading
+2021-09-23 17:44:20,038  INFO [main] reusablecomponents:30 - loading
+2021-09-23 17:49:18,929  INFO [main] reusablecomponents:30 - loading
+2021-09-23 17:50:20,138  INFO [main] reusablecomponents:30 - loading
+2021-09-23 17:50:44,775  INFO [main] reusablecomponents:30 - loading
+2021-09-23 17:52:05,504  INFO [main] reusablecomponents:30 - loading
+2021-09-23 17:55:56,382  INFO [main] reusablecomponents:30 - loading
+2021-09-23 17:57:13,547  INFO [main] reusablecomponents:28 - loading
+2021-09-23 18:04:10,978  INFO [main] reusablecomponents:29 - loading
+2021-09-23 18:06:17,379  INFO [main] reusablecomponents:29 - loading
+2021-09-23 18:24:03,442  INFO [main] reusablecomponents:29 - loading
+2021-09-23 18:44:30,128  INFO [main] reusablecomponents:29 - loading
+2021-09-23 18:46:37,393  INFO [main] reusablecomponents:29 - loading
+2021-09-23 19:05:31,824  INFO [main] reusablecomponents:29 - loading
+2021-09-23 19:36:22,590  INFO [main] reusablecomponents:29 - loading
+2021-09-23 19:39:41,511  INFO [main] reusablecomponents:29 - loading
+2021-09-23 19:39:42,432  INFO [main] reusablecomponents:29 - loading
+2021-09-23 19:43:54,933  INFO [main] reusablecomponents:29 - loading
+2021-09-23 19:49:04,746  INFO [main] reusablecomponents:29 - loading
+2021-09-23 19:49:29,700  INFO [main] reusablecomponents:29 - loading
+2021-09-23 19:49:30,126  INFO [main] reusablecomponents:29 - loading
+2021-09-23 19:54:25,890  INFO [main] reusablecomponents:29 - loading
+2021-09-23 20:02:17,865  INFO [main] reusablecomponents:29 - loading
+2021-09-23 20:04:24,039  INFO [main] reusablecomponents:29 - loading
+2021-09-23 20:08:02,271  INFO [main] reusablecomponents:29 - loading
+2021-09-23 20:14:23,741  INFO [main] reusablecomponents:30 - loading
+2021-09-23 20:21:52,951  INFO [main] reusablecomponents:31 - loading
+2021-09-23 20:35:36,062  INFO [main] reusablecomponents:32 - loading
+2021-09-23 20:43:48,486  INFO [main] reusablecomponents:33 - loading
+2021-09-23 20:44:11,689  INFO [main] reusablecomponents:33 - loading
+2021-09-23 21:21:21,423  INFO [main] reusablecomponents:34 - loading
+2021-09-23 21:24:37,627  INFO [main] reusablecomponents:34 - loading
+2021-09-23 21:26:57,058  INFO [main] reusablecomponents:34 - loading
+2021-09-23 21:42:01,119  INFO [main] reusablecomponents:35 - loading
+2021-09-23 21:44:29,828  INFO [main] reusablecomponents:35 - loading
+2021-09-23 21:47:00,063  INFO [main] reusablecomponents:35 - loading
+2021-09-23 21:49:53,516  INFO [main] reusablecomponents:35 - loading
+2021-09-23 21:53:39,669  INFO [main] reusablecomponents:35 - loading
+2021-09-23 21:56:31,692  INFO [main] reusablecomponents:35 - loading
+2021-09-23 21:59:47,603  INFO [main] reusablecomponents:35 - loading
+2021-09-23 22:03:41,255  INFO [main] reusablecomponents:35 - loading
+2021-09-23 22:09:25,409  INFO [main] reusablecomponents:35 - loading
+2021-09-23 22:40:58,382  INFO [main] reusablecomponents:36 - loading
+2021-09-23 22:44:03,429  INFO [main] reusablecomponents:36 - loading
+2021-09-24 11:00:59,139  INFO [main] reusablecomponents:36 - loading
+2021-09-24 11:26:10,645  INFO [main] reusablecomponents:36 - loading the Url
+2021-09-24 11:26:10,773  INFO [main] reusablecomponents:40 - Signing up the page
+2021-09-24 11:26:32,305  INFO [main] reusablecomponents:46 - Enter the Username and Password
+2021-09-24 11:26:50,588  INFO [main] reusablecomponents:58 - Searching for Beds
+2021-09-24 11:27:00,090  INFO [main] reusablecomponents:65 - viewing the types of beds
+2021-09-24 11:27:02,344  INFO [main] reusablecomponents:72 - Tracking the order
+2021-09-24 11:27:15,116  INFO [main] reusablecomponents:93 - Viewing the store
+2021-09-24 11:27:27,873  INFO [main] reusablecomponents:83 - Entering into study chairs products
+2021-09-24 11:27:36,794  INFO [main] reusablecomponents:100 - Seeking for help
+2021-09-24 11:27:38,597  INFO [main] reusablecomponents:103 - Printing the ans for question
+2021-09-24 11:27:38,659  INFO [main] reusablecomponents:111 - Checking the Dining
+2021-09-24 11:27:43,836  INFO [main] reusablecomponents:116 - View of 6 seater table
+2021-09-24 11:27:46,031  INFO [main] reusablecomponents:124 - View of collection
+2021-09-24 11:28:23,460  INFO [main] reusablecomponents:132 - Printing the price
+2021-09-24 11:28:23,703  INFO [main] reusablecomponents:151 - Viewing the kids section
+2021-09-24 11:28:46,116  INFO [main] reusablecomponents:157 - Pinting Emi price
+2021-09-24 11:28:46,547  INFO [main] reusablecomponents:140 - Entering gift card menu
+2021-09-24 11:28:49,469  INFO [main] reusablecomponents:142 - Category selected
+2021-09-24 11:56:06,305  INFO [main] reusablecomponents:29 - loading
+2021-09-24 11:56:11,388  INFO [main] reusablecomponents:36 - urbanladder homepage invoked
+2021-09-24 11:59:56,596  INFO [main] reusablecomponents:29 - loading
+2021-09-24 12:00:01,332  INFO [main] reusablecomponents:36 - urbanladder homepage invoked
+2021-09-24 12:00:01,341  INFO [main] reusablecomponents:44 - Entering into study chairs products
+2021-09-24 12:01:48,382  INFO [main] reusablecomponents:29 - loading
+2021-09-24 12:01:53,622  INFO [main] reusablecomponents:36 - urbanladder homepage invoked
+2021-09-24 12:01:53,626  INFO [main] reusablecomponents:43 - Entering into study chairs products
+2021-09-24 12:04:41,480  INFO [main] reusablecomponents:30 - loading
+2021-09-24 12:04:46,255  INFO [main] reusablecomponents:37 - urbanladder homepage invoked
+2021-09-24 12:04:46,257  INFO [main] reusablecomponents:44 - Entering into study chairs products
+2021-09-24 12:06:34,765  INFO [main] reusablecomponents:30 - loading
+2021-09-24 12:06:40,187  INFO [main] reusablecomponents:37 - urbanladder homepage invoked
+2021-09-24 12:06:40,189  INFO [main] reusablecomponents:44 - Entering into study chairs products
+2021-09-24 12:08:21,430  INFO [main] reusablecomponents:30 - loading
+2021-09-24 12:08:26,436  INFO [main] reusablecomponents:37 - urbanladder homepage invoked
+2021-09-24 12:08:26,440  INFO [main] reusablecomponents:44 - Entering into study chairs products
+2021-09-24 12:11:14,664  INFO [main] reusablecomponents:30 - loading
+2021-09-24 12:11:19,894  INFO [main] reusablecomponents:37 - urbanladder homepage invoked
+2021-09-24 12:11:19,897  INFO [main] reusablecomponents:44 - Entering into study chairs products
+2021-09-24 12:13:28,558  INFO [main] reusablecomponents:30 - loading
+2021-09-24 12:13:33,822  INFO [main] reusablecomponents:37 - urbanladder homepage invoked
+2021-09-24 12:13:33,825  INFO [main] reusablecomponents:44 - Entering into study chairs products
+2021-09-24 12:17:43,250  INFO [main] reusablecomponents:30 - loading
+2021-09-24 12:17:48,536  INFO [main] reusablecomponents:37 - urbanladder homepage invoked
+2021-09-24 12:17:48,539  INFO [main] reusablecomponents:44 - Entering into study chairs products
+2021-09-24 12:21:21,517  INFO [main] reusablecomponents:30 - loading
+2021-09-24 12:21:26,845  INFO [main] reusablecomponents:37 - urbanladder homepage invoked
+2021-09-24 12:21:26,848  INFO [main] reusablecomponents:44 - Entering into study chairs products
+2021-09-24 12:22:32,377  INFO [main] reusablecomponents:30 - loading
+2021-09-24 12:22:37,070  INFO [main] reusablecomponents:37 - urbanladder homepage invoked
+2021-09-24 12:22:37,072  INFO [main] reusablecomponents:44 - Entering into study chairs products
+2021-09-24 12:23:39,445  INFO [main] reusablecomponents:30 - loading
+2021-09-24 12:23:44,097  INFO [main] reusablecomponents:37 - urbanladder homepage invoked
+2021-09-24 12:23:44,098  INFO [main] reusablecomponents:44 - Entering into study chairs products
+2021-09-24 12:28:28,547  INFO [main] reusablecomponents:36 - loading the Url
+2021-09-24 12:28:28,745  INFO [main] reusablecomponents:40 - Signing up the page
+2021-09-24 12:28:33,328  INFO [main] reusablecomponents:58 - Searching for Beds
+2021-09-24 12:28:38,726  INFO [main] reusablecomponents:65 - viewing the types of beds
+2021-09-24 12:28:40,912  INFO [main] reusablecomponents:72 - Tracking the order
+2021-09-24 12:29:03,016  INFO [main] reusablecomponents:93 - Viewing the store
+2021-09-24 12:29:03,049  INFO [main] reusablecomponents:83 - Entering into study chairs products
+2021-09-24 12:29:03,079  INFO [main] reusablecomponents:100 - Seeking for help
+2021-09-24 12:29:03,117  INFO [main] reusablecomponents:111 - Checking the Dining
+2021-09-24 12:29:03,161  INFO [main] reusablecomponents:124 - View of collection
+2021-09-24 12:29:03,197  INFO [main] reusablecomponents:151 - Viewing the kids section
+2021-09-24 12:29:03,316  INFO [main] reusablecomponents:140 - Entering gift card menu
+2021-09-24 12:30:06,272  INFO [main] reusablecomponents:36 - loading the Url
+2021-09-24 12:30:06,440  INFO [main] reusablecomponents:40 - Signing up the page
+2021-09-24 12:30:28,848  INFO [main] reusablecomponents:46 - Enter the Username and Password
+2021-09-24 12:30:46,868  INFO [main] reusablecomponents:58 - Searching for Beds
+2021-09-24 12:30:51,315  INFO [main] reusablecomponents:65 - viewing the types of beds
+2021-09-24 12:30:53,238  INFO [main] reusablecomponents:72 - Tracking the order
+2021-09-24 12:31:07,252  INFO [main] reusablecomponents:93 - Viewing the store
+2021-09-24 12:31:16,937  INFO [main] reusablecomponents:83 - Entering into study chairs products
+2021-09-24 12:31:27,118  INFO [main] reusablecomponents:100 - Seeking for help
+2021-09-24 12:31:29,304  INFO [main] reusablecomponents:103 - Printing the ans for question
+2021-09-24 12:31:29,363  INFO [main] reusablecomponents:111 - Checking the Dining
+2021-09-24 12:31:34,549  INFO [main] reusablecomponents:116 - View of 6 seater table
+2021-09-24 12:31:37,552  INFO [main] reusablecomponents:124 - View of collection
+2021-09-24 12:32:15,094  INFO [main] reusablecomponents:132 - Printing the price
+2021-09-24 12:32:15,889  INFO [main] reusablecomponents:151 - Viewing the kids section
+2021-09-24 12:32:38,904  INFO [main] reusablecomponents:157 - Pinting Emi price
+2021-09-24 12:32:39,293  INFO [main] reusablecomponents:140 - Entering gift card menu
+2021-09-24 12:32:42,365  INFO [main] reusablecomponents:142 - Category selected
+2021-09-24 12:33:40,049  INFO [main] reusablecomponents:30 - loading
+2021-09-24 12:33:44,827  INFO [main] reusablecomponents:37 - urbanladder homepage invoked
+2021-09-24 12:33:44,831  INFO [main] reusablecomponents:44 - Entering into study chairs products
+2021-09-24 12:35:47,976  INFO [main] reusablecomponents:31 - loading
+2021-09-24 12:35:52,624  INFO [main] reusablecomponents:38 - urbanladder homepage invoked
+2021-09-24 12:35:52,629  INFO [main] reusablecomponents:45 - Entering into study chairs products
+2021-09-24 12:39:40,641  INFO [main] reusablecomponents:31 - loading
+2021-09-24 12:39:45,581  INFO [main] reusablecomponents:38 - urbanladder homepage invoked
+2021-09-24 12:39:45,584  INFO [main] reusablecomponents:45 - Entering into study chairs products
+2021-09-24 12:46:13,182  INFO [main] reusablecomponents:31 - loading
+2021-09-24 12:46:17,566  INFO [main] reusablecomponents:38 - urbanladder homepage invoked
+2021-09-24 12:46:17,567  INFO [main] reusablecomponents:45 - Entering into study chairs products
+2021-09-24 12:48:16,454  INFO [main] reusablecomponents:31 - loading
+2021-09-24 12:48:21,413  INFO [main] reusablecomponents:38 - urbanladder homepage invoked
+2021-09-24 12:48:21,415  INFO [main] reusablecomponents:45 - Entering into study chairs products
+2021-09-24 12:49:56,136  INFO [main] reusablecomponents:31 - loading
+2021-09-24 12:50:21,002  INFO [main] reusablecomponents:40 - urbanladder homepage invoked
+2021-09-24 12:50:21,005  INFO [main] reusablecomponents:47 - Entering into study chairs products
+2021-09-24 12:53:06,962  INFO [main] reusablecomponents:31 - loading
+2021-09-24 12:53:11,859  INFO [main] reusablecomponents:38 - urbanladder homepage invoked
+2021-09-24 12:53:11,862  INFO [main] reusablecomponents:45 - Entering into study chairs products
+2021-09-24 12:58:47,658  INFO [main] reusablecomponents:31 - loading
+2021-09-24 12:58:52,239  INFO [main] reusablecomponents:38 - urbanladder homepage invoked
+2021-09-24 12:58:52,240  INFO [main] reusablecomponents:45 - Entering into study chairs products
+2021-09-24 13:00:24,197  INFO [main] reusablecomponents:31 - loading
+2021-09-24 13:00:28,502  INFO [main] reusablecomponents:38 - urbanladder homepage invoked
+2021-09-24 13:00:28,503  INFO [main] reusablecomponents:45 - Entering into study chairs products
+2021-09-24 13:03:25,033  INFO [main] reusablecomponents:31 - loading
+2021-09-24 13:03:29,802  INFO [main] reusablecomponents:38 - urbanladder homepage invoked
+2021-09-24 13:03:29,803  INFO [main] reusablecomponents:45 - Entering into study chairs products
+2021-09-24 14:43:59,818  INFO [main] reusablecomponents:42 - Enter the Username and Password
+2021-09-24 14:48:00,659  INFO [main] reusablecomponents:42 - Enter the Username and Password
+2021-09-24 14:49:28,023  INFO [main] reusablecomponents:42 - Enter the Username and Password
+2021-09-24 14:51:53,576  INFO [main] reusablecomponents:42 - Enter the Username and Password
+2021-09-24 14:57:08,068  INFO [main] reusablecomponents:42 - Enter the Username and Password
+2021-09-24 14:59:11,231  INFO [main] reusablecomponents:42 - Enter the Username and Password
+2021-09-24 15:01:58,784  INFO [main] reusablecomponents:42 - Enter the Username and Password
+2021-09-24 15:04:23,121  INFO [main] reusablecomponents:42 - Enter the Username and Password
+2021-09-24 15:05:59,426  INFO [main] reusablecomponents:42 - Enter the Username and Password
+2021-09-24 15:08:02,500  INFO [main] reusablecomponents:42 - Enter the Username and Password
+2021-09-24 15:12:11,782  INFO [main] reusablecomponents:43 - Enter the Username and Password
+2021-09-24 15:37:39,172  INFO [main] reusablecomponents:44 - Enter the Username and Password
+2021-09-24 15:38:05,325  INFO [main] reusablecomponents:63 - Entering into weekly deals products
+2021-09-24 15:44:00,680  INFO [main] reusablecomponents:45 - Enter the Username and Password
+2021-09-24 15:44:28,013  INFO [main] reusablecomponents:65 - Entering into weekly deals products
+2021-09-24 15:44:41,656  INFO [main] reusablecomponents:75 - Entering into study chairs products
+2021-09-24 15:46:00,205  INFO [main] reusablecomponents:45 - Enter the Username and Password
+2021-09-24 15:46:25,510  INFO [main] reusablecomponents:65 - Entering into weekly deals products
+2021-09-24 15:46:39,121  INFO [main] reusablecomponents:75 - Entering into study chairs products
+2021-09-24 15:49:18,059  INFO [main] reusablecomponents:45 - Enter the Username and Password
+2021-09-24 15:49:58,842  INFO [main] reusablecomponents:71 - Entering into study chairs products
+2021-09-24 15:57:05,438  INFO [main] reusablecomponents:45 - Enter the Username and Password
+2021-09-24 16:01:11,983  INFO [main] reusablecomponents:45 - Enter the Username and Password
+2021-09-24 16:01:41,944  INFO [main] reusablecomponents:66 - Entering into study chairs products
+2021-09-24 16:05:18,655  INFO [main] reusablecomponents:45 - Enter the Username and Password
+2021-09-24 16:05:46,673  INFO [main] reusablecomponents:66 - Entering into study chairs products
+2021-09-24 16:18:04,743  INFO [main] reusablecomponents:45 - Enter the Username and Password
+2021-09-24 16:19:05,905  INFO [main] reusablecomponents:68 - Entering into study chairs products
+2021-09-24 16:21:20,621  INFO [main] reusablecomponents:45 - Enter the Username and Password
+2021-09-24 16:22:25,462  INFO [main] reusablecomponents:69 - Entering into study chairs products
+2021-09-24 16:38:54,227  INFO [main] reusablecomponents:46 - Enter the Username and Password
+2021-09-24 16:39:53,211  INFO [main] reusablecomponents:70 - Entering into study chairs products
+2021-09-24 16:40:10,431  INFO [main] reusablecomponents:83 - Entering into study chairs products
+2021-09-24 16:41:51,820  INFO [main] reusablecomponents:46 - Enter the Username and Password
+2021-09-24 16:42:49,513  INFO [main] reusablecomponents:70 - Entering into study chairs products
+2021-09-24 16:43:36,682  INFO [main] reusablecomponents:86 - Entering into study chairs products
+2021-09-24 16:51:12,995  INFO [main] reusablecomponents:46 - Enter the Username and Password
+2021-09-24 16:52:11,754  INFO [main] reusablecomponents:70 - Entering into study chairs products
+2021-09-24 16:53:04,584  INFO [main] reusablecomponents:86 - Entering into study chairs products
+2021-09-24 16:53:13,323  INFO [main] reusablecomponents:96 - Adding to cart
+2021-09-24 17:07:26,791  INFO [main] reusablecomponents:46 - Enter the Username and Password
+2021-09-24 17:08:26,718  INFO [main] reusablecomponents:70 - Entering into study chairs products
+2021-09-24 17:09:18,420  INFO [main] reusablecomponents:86 - Entering into study chairs products
+2021-09-24 17:09:26,756  INFO [main] reusablecomponents:96 - Adding to cart
+2021-09-24 17:10:09,403  INFO [main] reusablecomponents:107 - Entering into study chairs products
+2021-09-24 17:12:08,843  INFO [main] reusablecomponents:46 - Enter the Username and Password
+2021-09-24 17:13:06,325  INFO [main] reusablecomponents:70 - Entering into study chairs products
+2021-09-24 17:13:59,238  INFO [main] reusablecomponents:86 - Entering into study chairs products
+2021-09-24 17:14:07,866  INFO [main] reusablecomponents:96 - Adding to cart
+2021-09-24 17:14:51,787  INFO [main] reusablecomponents:107 - Entering into study chairs products
+2021-09-24 18:25:35,958  INFO [main] reusablecomponents:47 - Enter the Username and Password
+2021-09-24 18:26:36,208  INFO [main] reusablecomponents:71 - Entering into study chairs products
+2021-09-24 18:27:30,846  INFO [main] reusablecomponents:87 - Entering into study chairs products
+2021-09-24 18:27:39,682  INFO [main] reusablecomponents:97 - Adding to cart
+2021-09-24 18:28:25,981  INFO [main] reusablecomponents:108 - Entering into study chairs products
+2021-09-24 18:28:45,191  INFO [main] reusablecomponents:122 - Searching for Tables
+2021-09-24 18:31:14,384  INFO [main] reusablecomponents:47 - Enter the Username and Password
+2021-09-24 18:32:13,986  INFO [main] reusablecomponents:71 - Entering into study chairs products
+2021-09-24 18:33:03,234  INFO [main] reusablecomponents:87 - Entering into study chairs products
+2021-09-24 18:33:11,391  INFO [main] reusablecomponents:97 - Adding to cart
+2021-09-24 18:33:55,244  INFO [main] reusablecomponents:108 - Entering into study chairs products
+2021-09-24 18:34:12,609  INFO [main] reusablecomponents:122 - Searching for Tables
+2021-09-24 18:37:13,800  INFO [main] reusablecomponents:47 - Enter the Username and Password
+2021-09-24 18:38:09,991  INFO [main] reusablecomponents:71 - Entering into study chairs products
+2021-09-24 18:39:01,724  INFO [main] reusablecomponents:87 - Entering into study chairs products
+2021-09-24 18:39:10,812  INFO [main] reusablecomponents:97 - Adding to cart
+2021-09-24 18:39:54,526  INFO [main] reusablecomponents:108 - Entering into study chairs products
+2021-09-24 18:40:56,447  INFO [main] reusablecomponents:125 - Searching for Tables
+2021-09-24 19:02:59,965  INFO [main] reusablecomponents:48 - Enter the Username and Password
+2021-09-24 19:03:58,655  INFO [main] reusablecomponents:72 - Entering into study chairs products
+2021-09-24 19:04:51,500  INFO [main] reusablecomponents:88 - Entering into study chairs products
+2021-09-24 19:04:59,821  INFO [main] reusablecomponents:98 - Adding to cart
+2021-09-24 19:05:45,459  INFO [main] reusablecomponents:109 - Entering into study chairs products
+2021-09-24 19:06:41,909  INFO [main] reusablecomponents:126 - Searching for Tables
+2021-09-24 19:07:24,309  INFO [main] reusablecomponents:143 - Entering into pouffe products
+2021-09-24 19:09:18,415  INFO [main] reusablecomponents:48 - Enter the Username and Password
+2021-09-24 19:10:17,401  INFO [main] reusablecomponents:72 - Entering into study chairs products
+2021-09-24 19:11:08,506  INFO [main] reusablecomponents:88 - Entering into study chairs products
+2021-09-24 19:11:16,888  INFO [main] reusablecomponents:98 - Adding to cart
+2021-09-24 19:12:00,388  INFO [main] reusablecomponents:109 - Entering into study chairs products
+2021-09-24 19:13:02,771  INFO [main] reusablecomponents:126 - Searching for Tables
+2021-09-24 19:13:45,126  INFO [main] reusablecomponents:143 - Entering into pouffe products
+2021-09-24 19:30:55,389  INFO [main] reusablecomponents:49 - Enter the Username and Password
+2021-09-24 19:31:52,849  INFO [main] reusablecomponents:73 - Entering into study chairs products
+2021-09-24 19:32:42,684  INFO [main] reusablecomponents:89 - Entering into study chairs products
+2021-09-24 19:32:51,537  INFO [main] reusablecomponents:99 - Adding to cart
+2021-09-24 19:33:36,546  INFO [main] reusablecomponents:110 - Entering into study chairs products
+2021-09-24 19:34:40,520  INFO [main] reusablecomponents:127 - Searching for Tables
+2021-09-24 19:35:27,861  INFO [main] reusablecomponents:144 - Entering into pouffe products
+2021-09-24 19:36:28,188  INFO [main] reusablecomponents:164 - Entering into Queen matresses
+2021-09-24 19:38:33,658  INFO [main] reusablecomponents:49 - Enter the Username and Password
+2021-09-24 19:39:27,262  INFO [main] reusablecomponents:73 - Entering into study chairs products
+2021-09-24 19:40:17,438  INFO [main] reusablecomponents:89 - Entering into study chairs products
+2021-09-24 19:40:26,775  INFO [main] reusablecomponents:99 - Adding to cart
+2021-09-24 19:41:09,651  INFO [main] reusablecomponents:110 - Entering into study chairs products
+2021-09-24 19:42:06,792  INFO [main] reusablecomponents:127 - Searching for Tables
+2021-09-24 19:42:50,644  INFO [main] reusablecomponents:144 - Entering into pouffe products
+2021-09-24 19:43:51,820  INFO [main] reusablecomponents:164 - Entering into Queen matresses
+2021-09-24 19:44:43,120  INFO [main] reusablecomponents:36 - loading the Url
+2021-09-24 19:44:43,180  INFO [main] reusablecomponents:40 - Signing up the page
+2021-09-24 19:45:05,386  INFO [main] reusablecomponents:46 - Enter the Username and Password
+2021-09-24 19:45:23,356  INFO [main] reusablecomponents:58 - Searching for Beds
+2021-09-24 19:45:28,142  INFO [main] reusablecomponents:65 - viewing the types of beds
+2021-09-24 19:45:30,829  INFO [main] reusablecomponents:72 - Tracking the order
+2021-09-24 19:45:46,273  INFO [main] reusablecomponents:93 - Viewing the store
+2021-09-24 19:46:00,208  INFO [main] reusablecomponents:83 - Entering into study chairs products
+2021-09-24 19:46:08,904  INFO [main] reusablecomponents:100 - Seeking for help
+2021-09-24 19:46:10,823  INFO [main] reusablecomponents:103 - Printing the ans for question
+2021-09-24 19:46:10,907  INFO [main] reusablecomponents:111 - Checking the Dining
+2021-09-24 19:46:16,100  INFO [main] reusablecomponents:116 - View of 6 seater table
+2021-09-24 19:46:18,189  INFO [main] reusablecomponents:124 - View of collection
+2021-09-24 19:46:55,850  INFO [main] reusablecomponents:132 - Printing the price
+2021-09-24 19:46:56,136  INFO [main] reusablecomponents:151 - Viewing the kids section
+2021-09-24 19:47:18,413  INFO [main] reusablecomponents:157 - Pinting Emi price
+2021-09-24 19:47:18,797  INFO [main] reusablecomponents:140 - Entering gift card menu
+2021-09-24 19:47:22,462  INFO [main] reusablecomponents:142 - Category selected
+2021-09-24 19:48:27,781  INFO [main] reusablecomponents:36 - loading the Url
+2021-09-24 19:48:27,849  INFO [main] reusablecomponents:40 - Signing up the page
+2021-09-24 19:48:32,795  INFO [main] reusablecomponents:58 - Searching for Beds
+2021-09-24 19:48:38,935  INFO [main] reusablecomponents:65 - viewing the types of beds
+2021-09-24 19:48:42,331  INFO [main] reusablecomponents:72 - Tracking the order
+2021-09-24 19:48:48,776  INFO [main] reusablecomponents:93 - Viewing the store
+2021-09-24 19:48:48,806  INFO [main] reusablecomponents:83 - Entering into study chairs products
+2021-09-24 19:48:48,842  INFO [main] reusablecomponents:100 - Seeking for help
+2021-09-24 19:48:48,866  INFO [main] reusablecomponents:111 - Checking the Dining
+2021-09-24 19:48:48,891  INFO [main] reusablecomponents:124 - View of collection
+2021-09-24 19:48:48,911  INFO [main] reusablecomponents:151 - Viewing the kids section
+2021-09-24 19:48:48,939  INFO [main] reusablecomponents:140 - Entering gift card menu
+2021-09-24 19:50:00,759  INFO [main] reusablecomponents:36 - loading the Url
+2021-09-24 19:50:00,806  INFO [main] reusablecomponents:40 - Signing up the page
+2021-09-24 19:50:18,904  INFO [main] reusablecomponents:46 - Enter the Username and Password
+2021-09-24 19:50:36,925  INFO [main] reusablecomponents:58 - Searching for Beds
+2021-09-24 19:50:41,045  INFO [main] reusablecomponents:65 - viewing the types of beds
+2021-09-24 19:50:45,500  INFO [main] reusablecomponents:72 - Tracking the order
+2021-09-24 19:51:00,225  INFO [main] reusablecomponents:93 - Viewing the store
+2021-09-24 19:51:11,286  INFO [main] reusablecomponents:83 - Entering into study chairs products
+2021-09-24 19:51:21,496  INFO [main] reusablecomponents:100 - Seeking for help
+2021-09-24 19:51:22,713  INFO [main] reusablecomponents:103 - Printing the ans for question
+2021-09-24 19:51:22,844  INFO [main] reusablecomponents:111 - Checking the Dining
+2021-09-24 19:51:28,292  INFO [main] reusablecomponents:116 - View of 6 seater table
+2021-09-24 19:51:30,998  INFO [main] reusablecomponents:124 - View of collection
+2021-09-24 19:52:10,775  INFO [main] reusablecomponents:36 - loading the Url
+2021-09-24 19:52:10,913  INFO [main] reusablecomponents:40 - Signing up the page
+2021-09-24 19:52:11,518  INFO [main] reusablecomponents:151 - Viewing the kids section
+2021-09-24 19:52:33,588  INFO [main] reusablecomponents:46 - Enter the Username and Password
+2021-09-24 19:52:36,850  INFO [main] reusablecomponents:140 - Entering gift card menu
+2021-09-24 19:52:51,131  INFO [main] reusablecomponents:58 - Searching for Beds
+2021-09-24 19:52:55,610  INFO [main] reusablecomponents:65 - viewing the types of beds
+2021-09-24 19:52:57,731  INFO [main] reusablecomponents:72 - Tracking the order
+2021-09-24 19:53:24,776  INFO [main] reusablecomponents:93 - Viewing the store
+2021-09-24 19:53:35,892  INFO [main] reusablecomponents:83 - Entering into study chairs products
+2021-09-24 19:53:45,693  INFO [main] reusablecomponents:100 - Seeking for help
+2021-09-24 19:53:49,094  INFO [main] reusablecomponents:103 - Printing the ans for question
+2021-09-24 19:53:49,131  INFO [main] reusablecomponents:111 - Checking the Dining
+2021-09-24 19:53:54,318  INFO [main] reusablecomponents:116 - View of 6 seater table
+2021-09-24 19:53:54,410  INFO [main] reusablecomponents:36 - loading the Url
+2021-09-24 19:53:54,532  INFO [main] reusablecomponents:40 - Signing up the page
+2021-09-24 19:53:56,380  INFO [main] reusablecomponents:124 - View of collection
+2021-09-24 19:53:59,401  INFO [main] reusablecomponents:58 - Searching for Beds
+2021-09-24 19:54:04,752  INFO [main] reusablecomponents:65 - viewing the types of beds
+2021-09-24 19:54:08,041  INFO [main] reusablecomponents:72 - Tracking the order
+2021-09-24 19:54:30,946  INFO [main] reusablecomponents:93 - Viewing the store
+2021-09-24 19:54:36,877  INFO [main] reusablecomponents:151 - Viewing the kids section
+2021-09-24 19:54:51,087  INFO [main] reusablecomponents:83 - Entering into study chairs products
+2021-09-24 19:54:59,296  INFO [main] reusablecomponents:157 - Pinting Emi price
+2021-09-24 19:54:59,963  INFO [main] reusablecomponents:140 - Entering gift card menu
+2021-09-24 19:55:01,186  INFO [main] reusablecomponents:100 - Seeking for help
+2021-09-24 19:55:02,232  INFO [main] reusablecomponents:103 - Printing the ans for question
+2021-09-24 19:55:02,290  INFO [main] reusablecomponents:111 - Checking the Dining
+2021-09-24 19:55:03,589  INFO [main] reusablecomponents:142 - Category selected
+2021-09-24 19:55:07,465  INFO [main] reusablecomponents:116 - View of 6 seater table
+2021-09-24 19:55:10,833  INFO [main] reusablecomponents:124 - View of collection
+2021-09-24 19:55:46,515  INFO [main] reusablecomponents:151 - Viewing the kids section
+2021-09-24 19:56:09,015  INFO [main] reusablecomponents:157 - Pinting Emi price
+2021-09-24 19:56:09,361  INFO [main] reusablecomponents:140 - Entering gift card menu
+2021-09-24 19:56:11,888  INFO [main] reusablecomponents:142 - Category selected
+2021-09-24 19:56:50,157  INFO [main] reusablecomponents:36 - loading the Url
+2021-09-24 19:56:50,283  INFO [main] reusablecomponents:40 - Signing up the page
+2021-09-24 19:57:12,971  INFO [main] reusablecomponents:46 - Enter the Username and Password
+2021-09-24 19:57:32,133  INFO [main] reusablecomponents:58 - Searching for Beds
+2021-09-24 19:57:36,554  INFO [main] reusablecomponents:65 - viewing the types of beds
+2021-09-24 19:57:43,240  INFO [main] reusablecomponents:72 - Tracking the order
+2021-09-24 19:57:58,646  INFO [main] reusablecomponents:93 - Viewing the store
+2021-09-24 19:58:10,453  INFO [main] reusablecomponents:83 - Entering into study chairs products
+2021-09-24 19:58:20,812  INFO [main] reusablecomponents:100 - Seeking for help
+2021-09-24 19:58:22,267  INFO [main] reusablecomponents:103 - Printing the ans for question
+2021-09-24 19:58:22,331  INFO [main] reusablecomponents:111 - Checking the Dining
+2021-09-24 19:58:29,255  INFO [main] reusablecomponents:116 - View of 6 seater table
+2021-09-24 19:58:32,409  INFO [main] reusablecomponents:124 - View of collection
+2021-09-24 19:59:09,767  INFO [main] reusablecomponents:132 - Printing the price
+2021-09-24 19:59:10,032  INFO [main] reusablecomponents:151 - Viewing the kids section
+2021-09-24 19:59:32,396  INFO [main] reusablecomponents:157 - Pinting Emi price
+2021-09-24 19:59:32,560  INFO [main] reusablecomponents:140 - Entering gift card menu
+2021-09-24 19:59:36,451  INFO [main] reusablecomponents:142 - Category selected
+2021-09-24 20:11:28,576  INFO [main] reusablecomponents:49 - Enter the Username and Password
+2021-09-24 20:12:26,038  INFO [main] reusablecomponents:73 - Entering into study chairs products
+2021-09-24 20:13:15,880  INFO [main] reusablecomponents:89 - Entering into study chairs products
+2021-09-24 20:13:25,403  INFO [main] reusablecomponents:99 - Adding to cart
+2021-09-24 20:14:08,168  INFO [main] reusablecomponents:110 - Entering into study chairs products
+2021-09-24 20:15:06,787  INFO [main] reusablecomponents:127 - Searching for Tables
+2021-09-24 20:15:51,704  INFO [main] reusablecomponents:144 - Entering into pouffe products
+2021-09-24 20:16:51,142  INFO [main] reusablecomponents:164 - Entering into Queen matresses
+2021-09-24 20:20:08,492  INFO [main] reusablecomponents:49 - Enter the Username and Password
+2021-09-24 20:21:10,087  INFO [main] reusablecomponents:73 - Entering into study chairs products
+2021-09-24 20:22:07,835  INFO [main] reusablecomponents:89 - Entering into study chairs products
+2021-09-24 20:22:18,121  INFO [main] reusablecomponents:99 - Adding to cart
+2021-09-24 20:23:01,067  INFO [main] reusablecomponents:110 - Entering into study chairs products
+2021-09-24 20:23:59,343  INFO [main] reusablecomponents:127 - Searching for Tables
+2021-09-24 20:24:46,314  INFO [main] reusablecomponents:144 - Entering into pouffe products
+2021-09-24 20:25:49,807  INFO [main] reusablecomponents:164 - Entering into Queen matresses
+2021-09-24 20:26:42,456  INFO [main] reusablecomponents:183 - Entering into Queen matresses
+2021-09-24 20:57:45,575  INFO [main] reusablecomponents:52 - Enter the Username and Password
+2021-09-24 20:58:48,687  INFO [main] reusablecomponents:76 - Entering into study chairs products
+2021-09-24 21:01:51,958  INFO [main] reusablecomponents:52 - Enter the Username and Password
+2021-09-24 21:02:04,245  INFO [main] reusablecomponents:113 - Entering into study chairs products
+2021-09-24 21:03:58,343  INFO [main] reusablecomponents:167 - Entering into Queen matresses
+2021-09-24 21:03:59,669  INFO [main] reusablecomponents:113 - Entering into study chairs products
+2021-09-24 21:04:51,126  INFO [main] reusablecomponents:186 - Entering into Queen matresses
+2021-09-24 21:05:01,115  INFO [main] reusablecomponents:130 - Searching for Tables
+2021-09-24 21:05:13,428  INFO [main] reusablecomponents:198 - Seeking for help
+2021-09-24 21:05:17,477  INFO [main] reusablecomponents:207 - Printing the ans for question
+2021-09-24 21:05:29,030  INFO [main] reusablecomponents:216 - Viewing the store
+2021-09-24 21:05:46,581  INFO [main] reusablecomponents:147 - Entering into pouffe products
+2021-09-24 21:07:01,822  INFO [main] reusablecomponents:167 - Entering into Queen matresses
+2021-09-24 21:07:58,613  INFO [main] reusablecomponents:186 - Entering into Queen matresses
+2021-09-24 21:08:19,832  INFO [main] reusablecomponents:198 - Seeking for help
+2021-09-24 21:08:23,331  INFO [main] reusablecomponents:207 - Printing the ans for question
+2021-09-24 21:14:46,802  INFO [main] reusablecomponents:52 - Enter the Username and Password
+2021-09-24 21:15:53,465  INFO [main] reusablecomponents:76 - Entering into study chairs products
+2021-09-24 21:16:42,184  INFO [main] reusablecomponents:92 - Entering into study chairs products
+2021-09-24 21:16:52,146  INFO [main] reusablecomponents:102 - Adding to cart
+2021-09-24 21:17:36,235  INFO [main] reusablecomponents:113 - Entering into study chairs products
+2021-09-24 21:18:33,802  INFO [main] reusablecomponents:130 - Searching for Tables
+2021-09-24 21:19:16,521  INFO [main] reusablecomponents:147 - Entering into pouffe products
+2021-09-24 21:20:21,767  INFO [main] reusablecomponents:167 - Entering into Queen matresses
+2021-09-24 21:21:14,799  INFO [main] reusablecomponents:186 - Entering into Queen matresses
+2021-09-24 21:22:00,107  INFO [main] reusablecomponents:201 - Seeking for help
+2021-09-24 21:22:03,573  INFO [main] reusablecomponents:210 - Printing the ans for question
+2021-09-24 21:22:47,495  INFO [main] reusablecomponents:222 - Viewing the store
+2021-09-24 21:25:38,055  INFO [main] reusablecomponents:52 - Enter the Username and Password
+2021-09-24 21:26:36,174  INFO [main] reusablecomponents:76 - Entering into study chairs products
+2021-09-24 21:27:29,211  INFO [main] reusablecomponents:92 - Entering into study chairs products
+2021-09-24 21:27:38,360  INFO [main] reusablecomponents:102 - Adding to cart
+2021-09-24 21:28:21,163  INFO [main] reusablecomponents:113 - Entering into study chairs products
+2021-09-24 21:29:22,998  INFO [main] reusablecomponents:130 - Searching for Tables
+2021-09-24 21:30:08,809  INFO [main] reusablecomponents:147 - Entering into pouffe products
+2021-09-24 21:31:09,044  INFO [main] reusablecomponents:167 - Entering into Queen matresses
+2021-09-24 21:32:00,852  INFO [main] reusablecomponents:186 - Entering into Queen matresses
+2021-09-24 21:32:46,499  INFO [main] reusablecomponents:201 - Seeking for help
+2021-09-24 21:32:49,933  INFO [main] reusablecomponents:210 - Printing the ans for question
+2021-09-24 21:33:03,295  INFO [main] reusablecomponents:219 - Viewing the store
+2021-09-24 21:35:43,669  INFO [main] reusablecomponents:52 - Enter the Username and Password
+2021-09-24 21:36:42,536  INFO [main] reusablecomponents:76 - Entering into study chairs products
+2021-09-24 21:37:37,694  INFO [main] reusablecomponents:92 - Entering into study chairs products
+2021-09-24 21:37:47,754  INFO [main] reusablecomponents:102 - Adding to cart
+2021-09-24 21:38:29,571  INFO [main] reusablecomponents:113 - Entering into study chairs products
+2021-09-24 21:39:25,936  INFO [main] reusablecomponents:130 - Searching for Tables
+2021-09-24 21:40:08,429  INFO [main] reusablecomponents:147 - Entering into pouffe products
+2021-09-24 21:41:09,189  INFO [main] reusablecomponents:167 - Entering into Queen matresses
+2021-09-24 21:42:00,757  INFO [main] reusablecomponents:186 - Entering into Queen matresses
+2021-09-24 21:42:48,750  INFO [main] reusablecomponents:201 - Seeking for help
+2021-09-24 21:42:51,850  INFO [main] reusablecomponents:210 - Printing the ans for question
+2021-09-24 21:43:43,931  INFO [main] reusablecomponents:222 - Viewing the store
+2021-09-24 21:53:40,516  INFO [main] reusablecomponents:52 - Enter the Username and Password
+2021-09-24 21:54:37,337  INFO [main] reusablecomponents:76 - Entering into study chairs products
+2021-09-24 21:55:31,062  INFO [main] reusablecomponents:92 - Entering into study chairs products
+2021-09-24 21:56:22,274  INFO [main] reusablecomponents:113 - Entering into study chairs products
+2021-09-24 22:01:22,036  INFO [main] reusablecomponents:52 - Enter the Username and Password
+2021-09-24 22:02:26,453  INFO [main] reusablecomponents:76 - Entering into study chairs products
+2021-09-24 22:03:20,322  INFO [main] reusablecomponents:92 - Entering into study chairs products
+2021-09-24 22:03:30,324  INFO [main] reusablecomponents:102 - Adding to cart
+2021-09-24 22:05:22,640  INFO [main] reusablecomponents:130 - Searching for Tables
+2021-09-24 22:06:08,015  INFO [main] reusablecomponents:147 - Entering into pouffe products
+2021-09-24 22:07:15,022  INFO [main] reusablecomponents:167 - Entering into Queen matresses
+2021-09-24 22:08:09,957  INFO [main] reusablecomponents:186 - Entering into Queen matresses
+2021-09-24 22:08:57,062  INFO [main] reusablecomponents:201 - Seeking for help
+2021-09-24 22:09:00,574  INFO [main] reusablecomponents:210 - Printing the ans for question
+2021-09-24 22:09:44,689  INFO [main] reusablecomponents:222 - Viewing the store
+2021-09-25 10:13:19,117  INFO [main] reusablecomponents:52 - Enter the Username and Password
+2021-09-25 10:14:18,953  INFO [main] reusablecomponents:76 - Entering into study chairs products
+2021-09-25 10:15:15,736  INFO [main] reusablecomponents:92 - Entering into study chairs products
+2021-09-25 10:15:24,943  INFO [main] reusablecomponents:102 - Adding to cart
+2021-09-25 10:16:08,448  INFO [main] reusablecomponents:113 - Entering into study chairs products
+2021-09-25 10:17:06,545  INFO [main] reusablecomponents:130 - Searching for Tables
+2021-09-25 10:17:55,110  INFO [main] reusablecomponents:147 - Entering into pouffe products
+2021-09-25 10:18:57,927  INFO [main] reusablecomponents:167 - Entering into Queen matresses
+2021-09-25 10:19:54,329  INFO [main] reusablecomponents:186 - Entering into Queen matresses
+2021-09-25 10:20:40,205  INFO [main] reusablecomponents:201 - Seeking for help
+2021-09-25 10:20:43,637  INFO [main] reusablecomponents:210 - Printing the ans for question
+2021-09-25 10:21:24,445  INFO [main] reusablecomponents:222 - Viewing the store
+2021-09-25 10:21:48,033 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-25 10:21:48,034 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-25 10:21:48,036 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-25 10:21:48,037 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-25 10:21:48,039 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-09-25 10:21:48,652 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-25 10:21:48,654 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-25 10:21:48,655 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-25 10:21:48,656 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-25 10:21:48,657 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-09-25 10:25:03,359  INFO [main] reusablecomponents:39 - loading the Url
+2021-09-25 10:25:16,589  INFO [main] reusablecomponents:43 - Signing up the page
+2021-09-25 10:25:32,495  INFO [main] reusablecomponents:61 - Searching for Beds
+2021-09-25 10:25:41,924  INFO [main] reusablecomponents:75 - Tracking the order
+2021-09-25 10:25:43,997  INFO [main] reusablecomponents:96 - Viewing the store
+2021-09-25 10:25:45,095  INFO [main] reusablecomponents:86 - Entering into study chairs products
+2021-09-25 10:25:53,009  INFO [main] reusablecomponents:103 - Seeking for help
+2021-09-25 10:25:54,771  INFO [main] reusablecomponents:106 - Printing the ans for question
+2021-09-25 10:25:55,000  INFO [main] reusablecomponents:114 - Checking the Dining
+2021-09-25 10:26:00,285  INFO [main] reusablecomponents:119 - View of 6 seater table
+2021-09-25 10:26:02,872  INFO [main] reusablecomponents:127 - View of collection
+2021-09-25 10:26:18,733  INFO [main] reusablecomponents:154 - Viewing the kids section
+2021-09-25 10:27:23,504  INFO [main] reusablecomponents:160 - Pinting Emi price
+2021-09-25 10:27:23,824  INFO [main] reusablecomponents:143 - Entering gift card menu
+2021-09-25 10:27:25,760 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-25 10:27:25,765 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-25 10:27:25,772 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-25 10:27:25,775 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-25 10:27:25,781 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-09-25 10:27:26,974 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-25 10:27:26,976 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-25 10:27:26,977 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-25 10:27:26,978 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-25 10:27:26,978 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-09-25 10:32:28,971 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-25 10:32:28,979 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-25 10:32:28,983 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-25 10:32:28,985 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-25 10:32:28,986 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-09-25 10:32:29,472 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-25 10:32:29,474 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-25 10:32:29,475 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-25 10:32:29,476 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-25 10:32:29,477 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-09-25 10:33:27,884  INFO [main] reusablecomponents:39 - loading the Url
+2021-09-25 10:33:29,554  INFO [main] reusablecomponents:43 - Signing up the page
+2021-09-25 10:33:48,945  INFO [main] reusablecomponents:49 - Enter the Username and Password
+2021-09-25 10:34:06,540  INFO [main] reusablecomponents:61 - Searching for Beds
+2021-09-25 10:34:16,482  INFO [main] reusablecomponents:68 - viewing the types of beds
+2021-09-25 10:34:19,140  INFO [main] reusablecomponents:75 - Tracking the order
+2021-09-25 10:34:30,319  INFO [main] reusablecomponents:96 - Viewing the store
+2021-09-25 10:34:46,568  INFO [main] reusablecomponents:86 - Entering into study chairs products
+2021-09-25 10:34:57,296  INFO [main] reusablecomponents:103 - Seeking for help
+2021-09-25 10:34:58,928  INFO [main] reusablecomponents:106 - Printing the ans for question
+2021-09-25 10:34:59,008  INFO [main] reusablecomponents:114 - Checking the Dining
+2021-09-25 10:35:04,346  INFO [main] reusablecomponents:119 - View of 6 seater table
+2021-09-25 10:35:07,153  INFO [main] reusablecomponents:127 - View of collection
+2021-09-25 10:35:44,126  INFO [main] reusablecomponents:135 - Printing the price
+2021-09-25 10:35:44,259  INFO [main] reusablecomponents:154 - Viewing the kids section
+2021-09-25 10:36:06,946  INFO [main] reusablecomponents:160 - Pinting Emi price
+2021-09-25 10:36:07,171  INFO [main] reusablecomponents:143 - Entering gift card menu
+2021-09-25 10:36:12,185  INFO [main] reusablecomponents:145 - Category selected
+2021-09-25 10:36:13,349 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-25 10:36:13,353 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-25 10:36:13,357 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-25 10:36:13,359 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-25 10:36:13,360 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-09-25 10:36:13,727 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-09-25 10:36:13,728 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-09-25 10:36:13,729 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-09-25 10:36:13,729 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-09-25 10:36:13,730 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Kumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
